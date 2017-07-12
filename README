@@ -65,7 +65,7 @@ Project structure:
 
 Class overview:
 
-    Controller
+    Controllers
 
         - The API for the gem. Users of the gem should not need to interact with
           other classes.
